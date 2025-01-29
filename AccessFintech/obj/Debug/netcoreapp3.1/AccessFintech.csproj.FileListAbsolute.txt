@@ -1,0 +1,17 @@
+D:\interviewTasks\AccessFintech\AccessFintech\obj\Debug\netcoreapp3.1\AccessFintech.csproj.AssemblyReference.cache
+D:\interviewTasks\AccessFintech\AccessFintech\obj\Debug\netcoreapp3.1\AccessFintech.AssemblyInfoInputs.cache
+D:\interviewTasks\AccessFintech\AccessFintech\obj\Debug\netcoreapp3.1\AccessFintech.AssemblyInfo.cs
+D:\interviewTasks\AccessFintech\AccessFintech\obj\Debug\netcoreapp3.1\AccessFintech.csproj.CoreCompileInputs.cache
+D:\interviewTasks\AccessFintech\AccessFintech\bin\Debug\netcoreapp3.1\AccessFintech.exe
+D:\interviewTasks\AccessFintech\AccessFintech\bin\Debug\netcoreapp3.1\AccessFintech.deps.json
+D:\interviewTasks\AccessFintech\AccessFintech\bin\Debug\netcoreapp3.1\AccessFintech.runtimeconfig.json
+D:\interviewTasks\AccessFintech\AccessFintech\bin\Debug\netcoreapp3.1\AccessFintech.runtimeconfig.dev.json
+D:\interviewTasks\AccessFintech\AccessFintech\bin\Debug\netcoreapp3.1\AccessFintech.dll
+D:\interviewTasks\AccessFintech\AccessFintech\bin\Debug\netcoreapp3.1\AccessFintech.pdb
+D:\interviewTasks\AccessFintech\AccessFintech\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\interviewTasks\AccessFintech\AccessFintech\obj\Debug\netcoreapp3.1\AccessFintech.csproj.CopyComplete
+D:\interviewTasks\AccessFintech\AccessFintech\obj\Debug\netcoreapp3.1\AccessFintech.dll
+D:\interviewTasks\AccessFintech\AccessFintech\obj\Debug\netcoreapp3.1\AccessFintech.pdb
+D:\interviewTasks\AccessFintech\AccessFintech\obj\Debug\netcoreapp3.1\AccessFintech.genruntimeconfig.cache
+D:\interviewTasks\AccessFintech\AccessFintech\bin\Debug\netcoreapp3.1\stocks.csv
+D:\interviewTasks\AccessFintech\AccessFintech\bin\Debug\netcoreapp3.1\stocks.json
